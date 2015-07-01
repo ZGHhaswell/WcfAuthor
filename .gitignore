@@ -1,0 +1,8 @@
+*.suo
+WcfAuthor/WcfServer/bin/*.*
+WcfAuthor/WcfServer/obj/*
+*.user
+WcfClient/bin/*
+WcfClient/obj/*
+WcfContract/bin/*
+WcfContract/obj/*
