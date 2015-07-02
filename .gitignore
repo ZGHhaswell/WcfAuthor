@@ -6,3 +6,5 @@ WcfClient/bin/*
 WcfClient/obj/*
 WcfContract/bin/*
 WcfContract/obj/*
+WcfServer/bin/*
+WcfServer/obj/*

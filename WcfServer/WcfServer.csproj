@@ -76,7 +76,7 @@
     <Compile Include="Services\RemoteCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\WcfContract\WcfContract.csproj">
+    <ProjectReference Include="..\WcfContract\WcfContract.csproj">
       <Project>{6b5bd35f-3322-48f5-b1ae-79da91f25245}</Project>
       <Name>WcfContract</Name>
     </ProjectReference>
